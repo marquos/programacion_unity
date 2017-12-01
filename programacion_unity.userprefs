@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\enemy.cs">
+    <Files>
+      <File FileName="Assets\ball.cs" Line="34" Column="24" />
+      <File FileName="Assets\camera.cs" Line="18" Column="1" />
+      <File FileName="Assets\pickable.cs" Line="24" Column="28" />
+      <File FileName="Assets\enemy.cs" Line="20" Column="25" />
+      <File FileName="Assets\explosion3.cs" Line="9" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

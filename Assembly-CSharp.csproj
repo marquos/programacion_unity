@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}</ProjectGuid>
+    <ProjectGuid>{7D14F643-D562-35CB-540D-89C8BEA7F657}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -53,9 +53,12 @@
   <ItemGroup>
      <Compile Include="Assets\ball.cs" />
      <Compile Include="Assets\camera.cs" />
+     <Compile Include="Assets\enemy.cs" />
      <Compile Include="Assets\explosion.cs" />
      <Compile Include="Assets\explosion2.cs" />
      <Compile Include="Assets\explosion3.cs" />
+     <Compile Include="Assets\pickable.cs" />
+     <None Include="Assets\FREE Food Pack\Shaders\Food.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
