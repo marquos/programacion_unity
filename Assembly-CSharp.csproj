@@ -52,12 +52,14 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\ball.cs" />
+     <Compile Include="Assets\bulletController.cs" />
      <Compile Include="Assets\camera.cs" />
      <Compile Include="Assets\enemy.cs" />
      <Compile Include="Assets\explosion.cs" />
      <Compile Include="Assets\explosion2.cs" />
      <Compile Include="Assets\explosion3.cs" />
      <Compile Include="Assets\pickable.cs" />
+     <Compile Include="Assets\shooterController.cs" />
      <None Include="Assets\FREE Food Pack\Shaders\Food.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
